@@ -1,2 +1,0 @@
-# crazygames
-CrazyGames
